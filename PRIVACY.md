@@ -1,25 +1,25 @@
 # POLÍTICA DE PRIVACIDADE
 
-**Movi — Eventos Locais**
+**movih — eventos locais**
 
-**Versão:** 1.0
-**Data de vigência:** [PREENCHER DATA]
+**Versão:** 1.0.0
+**Data de vigência:** 31/12/2026
 
 ## 1. Identificação do controlador
 
-Esta Política de Privacidade descreve como **[RAZÃO SOCIAL]**, inscrita no CNPJ sob nº **[CNPJ]**, com endereço em **[ENDEREÇO]**, responsável pelo aplicativo **Movi — Eventos Locais** (“Movi”), trata os dados pessoais de seus usuários.
+Esta Política de Privacidade descreve como **APU Labs**, inscrita no CNPJ sob nº **55.470.748/0001-40**, responsável pelo aplicativo **movihh — eventos locais** (“movih”), trata os dados pessoais de seus usuários.
 
 Para assuntos relacionados à privacidade e proteção de dados pessoais, o usuário poderá entrar em contato por meio de:
 
-**E-mail:** [E-MAIL DE PRIVACIDADE]
+**E-mail:** moviapp.admin@gmail.com
 
-## 2. Sobre o Movi
+## 2. Sobre o movih
 
-O Movi é uma plataforma de descoberta de eventos locais. O aplicativo permite que os usuários encontrem eventos próximos, consultem informações sobre eventos, definam preferências, salvem eventos, criem lembretes e recebam notificações relacionadas ao serviço.
+O movih é uma plataforma de descoberta de eventos locais. O aplicativo permite que os usuários encontrem eventos próximos, consultem informações sobre eventos, definam preferências, salvem eventos, criem lembretes e recebam notificações relacionadas ao serviço.
 
 ## 3. Dados pessoais tratados
 
-Dependendo da utilização do aplicativo, o Movi poderá tratar os seguintes dados pessoais:
+Dependendo da utilização do aplicativo, o movih poderá tratar os seguintes dados pessoais:
 
 * Nome;
 * Endereço de e-mail;
@@ -32,19 +32,19 @@ Dependendo da utilização do aplicativo, o Movi poderá tratar os seguintes dad
 * Outras interações realizadas dentro do aplicativo;
 * Identificadores técnicos necessários para o envio de notificações push.
 
-O Movi busca limitar o tratamento aos dados necessários para oferecer suas funcionalidades.
+O movih busca limitar o tratamento aos dados necessários para oferecer suas funcionalidades.
 
 ## 4. Login com Google
 
-O Movi disponibiliza autenticação por meio da conta Google.
+O movih disponibiliza autenticação por meio da conta Google.
 
-Quando o usuário escolhe utilizar o login com Google, determinadas informações podem ser fornecidas pelo Google ao Movi, de acordo com as permissões aplicáveis, incluindo:
+Quando o usuário escolhe utilizar o login com Google, determinadas informações podem ser fornecidas pelo Google ao movih, de acordo com as permissões aplicáveis, incluindo:
 
 * nome;
 * endereço de e-mail; e
 * imagem de perfil.
 
-Essas informações são utilizadas para criar, identificar e manter a conta do usuário no Movi.
+Essas informações são utilizadas para criar, identificar e manter a conta do usuário no movih.
 
 O tratamento realizado pelo Google também está sujeito às políticas próprias do Google.
 
@@ -58,7 +58,7 @@ Os dados pessoais poderão ser utilizados para:
 * apresentar eventos próximos à localização do usuário;
 * utilizar as categorias e preferências selecionadas no onboarding;
 * disponibilizar favoritos e lembretes;
-* enviar notificações relacionadas a eventos e funcionalidades do Movi;
+* enviar notificações relacionadas a eventos e funcionalidades do movih;
 * manter, proteger, corrigir e melhorar o funcionamento do serviço;
 * detectar, prevenir e investigar atividades fraudulentas ou abusivas;
 * cumprir obrigações legais ou regulatórias;
@@ -66,9 +66,9 @@ Os dados pessoais poderão ser utilizados para:
 
 ## 6. Dados de localização
 
-O Movi utiliza a localização do dispositivo para oferecer funcionalidades relacionadas à descoberta de eventos próximos ao usuário.
+O movih utiliza a localização do dispositivo para oferecer funcionalidades relacionadas à descoberta de eventos próximos ao usuário.
 
-A localização é um dado pessoal e poderá ser armazenada pelo Movi quando necessário para o funcionamento das funcionalidades relacionadas à localização.
+A localização é um dado pessoal e poderá ser armazenada pelo movih quando necessário para o funcionamento das funcionalidades relacionadas à localização.
 
 O usuário poderá controlar a permissão de acesso à localização por meio das configurações do próprio dispositivo.
 
@@ -76,7 +76,7 @@ A desativação da permissão de localização não impede necessariamente a uti
 
 ## 7. Preferências, favoritos e lembretes
 
-O Movi poderá armazenar as categorias, preferências, favoritos e lembretes definidos pelo usuário.
+O movih poderá armazenar as categorias, preferências, favoritos e lembretes definidos pelo usuário.
 
 Essas informações são utilizadas para:
 
@@ -87,18 +87,18 @@ Essas informações são utilizadas para:
 
 ## 8. Notificações push
 
-O Movi utiliza notificações push para enviar informações relacionadas ao serviço, incluindo, quando aplicável:
+O movih utiliza notificações push para enviar informações relacionadas ao serviço, incluindo, quando aplicável:
 
 * lembretes de eventos;
 * atualizações relacionadas a eventos;
 * informações relevantes sobre funcionalidades;
-* outras comunicações diretamente relacionadas à utilização do Movi.
+* outras comunicações diretamente relacionadas à utilização do movih.
 
 O usuário poderá controlar as notificações por meio das configurações do dispositivo e, quando disponibilizado, pelas configurações do próprio aplicativo.
 
 ## 9. Compartilhamento de dados
 
-O Movi **não vende dados pessoais dos usuários**.
+O movih **não vende dados pessoais dos usuários**.
 
 Os dados pessoais poderão ser compartilhados com terceiros quando isso for necessário para a operação do serviço, incluindo fornecedores de:
 
@@ -112,7 +112,7 @@ Os dados pessoais poderão ser compartilhados com terceiros quando isso for nece
 Também poderemos compartilhar informações quando necessário para:
 
 * cumprir obrigação legal ou determinação de autoridade competente;
-* proteger direitos do Movi, de seus usuários ou de terceiros;
+* proteger direitos do movih, de seus usuários ou de terceiros;
 * prevenir fraudes, abusos ou atividades ilícitas;
 * exercer ou defender direitos.
 
@@ -120,7 +120,7 @@ Sempre que possível, buscamos limitar o compartilhamento às informações nece
 
 ## 10. Segurança
 
-O Movi adota medidas técnicas e organizacionais razoáveis para proteger os dados pessoais contra acesso não autorizado, perda, alteração, divulgação ou destruição indevida.
+O movih adota medidas técnicas e organizacionais razoáveis para proteger os dados pessoais contra acesso não autorizado, perda, alteração, divulgação ou destruição indevida.
 
 Embora sejam adotadas medidas de segurança, nenhum sistema conectado à internet pode garantir segurança absoluta.
 
@@ -139,7 +139,7 @@ Após o encerramento da conta, os dados pessoais serão eliminados ou anonimizad
 
 ## 12. Exclusão da conta
 
-O usuário poderá solicitar a exclusão de sua conta por meio da funcionalidade disponibilizada pelo Movi.
+O usuário poderá solicitar a exclusão de sua conta por meio da funcionalidade disponibilizada pelo movih.
 
 A exclusão da conta resultará na eliminação dos dados pessoais associados à conta, observadas as exceções previstas na legislação aplicável e nesta Política.
 
@@ -160,19 +160,19 @@ Nos termos da Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais 
 
 As solicitações poderão ser encaminhadas para:
 
-**[E-MAIL DE PRIVACIDADE]**
+**moviapp.admin@gmail.com**
 
-O Movi poderá solicitar informações adicionais para confirmar a identidade do solicitante e proteger os dados pessoais contra solicitações fraudulentas.
+O movih poderá solicitar informações adicionais para confirmar a identidade do solicitante e proteger os dados pessoais contra solicitações fraudulentas.
 
 ## 14. Crianças e adolescentes
 
-O Movi não é especificamente direcionado a crianças.
+O movih não é especificamente direcionado a crianças.
 
 Caso o tratamento de dados pessoais de crianças ou adolescentes ocorra, serão observados os requisitos e proteções previstos na legislação brasileira aplicável.
 
 ## 15. Serviços de terceiros e futuras tecnologias
 
-O Movi poderá incorporar novos serviços tecnológicos para melhorar sua operação, segurança, desempenho e experiência do usuário.
+O movih poderá incorporar novos serviços tecnológicos para melhorar sua operação, segurança, desempenho e experiência do usuário.
 
 Isso poderá incluir, por exemplo, ferramentas de análise de utilização, diagnóstico de falhas, monitoramento de desempenho e tecnologias semelhantes.
 
@@ -185,19 +185,18 @@ Esta Política de Privacidade poderá ser atualizada periodicamente para refleti
 * alterações no aplicativo;
 * novas funcionalidades;
 * alterações nas práticas de tratamento de dados;
-* alterações nos serviços utilizados pelo Movi; ou
+* alterações nos serviços utilizados pelo movih; ou
 * alterações na legislação aplicável.
 
-A versão mais recente estará disponível nos canais oficiais do Movi.
+A versão mais recente estará disponível nos canais oficiais do movih.
 
 ## 17. Contato
 
 Para dúvidas, solicitações ou assuntos relacionados à privacidade e proteção de dados pessoais:
 
-**[RAZÃO SOCIAL]**
-**CNPJ:** [CNPJ]
-**E-mail:** [E-MAIL DE PRIVACIDADE]
-**Endereço:** [ENDEREÇO]
+**APU Labs**
+**CNPJ:** 55.470.748/0001-40
+**E-mail:** moviapp.admin@gmail.com
 
-**Última atualização:** [PREENCHER DATA]
+**Última atualização:** 24/08/2026
 
