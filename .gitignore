@@ -1,0 +1,22 @@
+# Release artifacts — never commit built packages to this repo
+*.tar.gz
+*.tgz
+*.zip
+*.dmg
+*.pkg
+*.apk
+*.aab
+*.ipa
+*.deb
+*.rpm
+*.exe
+*.msi
+*.jar
+*.war
+
+# Build staging
+build/
+dist/
+releases/
+tmp/
+*.tmp
