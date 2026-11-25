@@ -2,16 +2,16 @@
 
 **movih — eventos locais**
 
-**Versão:** 1.0.0
-**Data de vigência:** 31/12/2026
+**Versão:** 1.0.1
+**Data de vigência:** 25/11/2026
 
 ## 1. Identificação do controlador
 
-Esta Política de Privacidade descreve como **APU Labs**, inscrita no CNPJ sob nº **55.470.748/0001-40**, responsável pelo aplicativo **movihh — eventos locais** (“movih”), trata os dados pessoais de seus usuários.
+Esta Política de Privacidade descreve como **APU Labs**, inscrita no CNPJ sob nº **55.470.748/0001-40**, responsável pelo aplicativo **movih — eventos locais** (“movih”), trata os dados pessoais de seus usuários.
 
 Para assuntos relacionados à privacidade e proteção de dados pessoais, o usuário poderá entrar em contato por meio de:
 
-**E-mail:** moviapp.admin@gmail.com
+**E-mail:** contato@movih.app
 
 ## 2. Sobre o movih
 
@@ -160,7 +160,7 @@ Nos termos da Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais 
 
 As solicitações poderão ser encaminhadas para:
 
-**moviapp.admin@gmail.com**
+**contato@movih.app**
 
 O movih poderá solicitar informações adicionais para confirmar a identidade do solicitante e proteger os dados pessoais contra solicitações fraudulentas.
 
@@ -196,7 +196,7 @@ Para dúvidas, solicitações ou assuntos relacionados à privacidade e proteç�
 
 **APU Labs**
 **CNPJ:** 55.470.748/0001-40
-**E-mail:** moviapp.admin@gmail.com
+**E-mail:** contato@movih.app
 
-**Última atualização:** 24/08/2026
+**Última atualização:** 25/11/2026
 
